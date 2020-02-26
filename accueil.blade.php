@@ -10,7 +10,7 @@
       <div class="row"  >
         <div class="col-sm-12" >
             <br >
-                <div class="col-sm-12" style="margin-left:-15px" >
+                <div class="col-sm-12" style="margin-left: 15px" >
                   <br>
                   <br>
                   <br>
@@ -27,7 +27,7 @@
 
                     <strong >
                         <center style="margin-top:-149px;padding-top:20px;padding-bottom:8px;"> Cérémonie de consécration des nations
-                            <br> A  L'ETERNEL <br> <em style="font-size:18pt" >comme  nations éthiques - Cameroon 2019</em>  </center>
+                            <br> A  L'ETERNEL <br> <em style="font-size:18pt" >Comme  nations éthiques - Cameroon 2019</em>  </center>
                           </h1>
                     </strong>
                   </div>
@@ -169,7 +169,7 @@
 
       <strong style=""><a href="{{route('ceremoniSubscribe')}}"><button class="btn btn-outline-info">Prendre part à la cérémonie</button></a></strong>
 
-      <strong style="margin-left:100px"><a href="{{route('comitySubscribe')}}"><button class="btn btn-outline-info">Participer à la préparation</button></a></strong>
+      <strong style="margin-left:90px"><a href="{{route('comitySubscribe')}}"><button class="btn btn-outline-info">Participer à la préparation</button></a></strong>
 
       <strong style="margin-left:100px"><a href="{{route('createCommity')}}"><button class="btn btn-outline-info">Organiser des activités</button></a></strong>
 

@@ -27,7 +27,7 @@
 
                     <strong >
                         <center style="margin-top:-149px;padding-top:20px;padding-bottom:8px;"> Cérémonie de consécration des nations
-                            <br> A  L'ETERNEL <br> <em style="font-size:18pt" >Comme  nations éthiques - Cameroon 2019</em>  </center>
+                            <br> A  L'Eternel <br> <em style="font-size:18pt" >Comme  nations éthiques - Cameroon 2020</em>  </center>
                           </h1>
                     </strong>
                   </div>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>le super groupe de ça...</title>
+	<title>le super blog de ça...</title>
 </head>
 <body>
 	<!-- je ne refuse pas que je la consome... mais je la consomme -->
